@@ -1,0 +1,1 @@
+My solution (Silver Medal)
